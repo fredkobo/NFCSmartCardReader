@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC SmartCard Reader</string>
+    <string name="place_card_instruction">Place card on back of phone</string>
+</resources>
